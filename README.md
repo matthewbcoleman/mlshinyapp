@@ -1,0 +1,1 @@
+Here is a shiny app I am currently working on in my free time. With this app, I hope to allow users to input a file, choose predictors, response, and then allow them to choose some common ML methods, and then spit out model output along with some explanation of the results and a file with the predictions appended.
