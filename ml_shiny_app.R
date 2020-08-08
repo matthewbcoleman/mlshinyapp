@@ -7,6 +7,8 @@
 #    http://shiny.rstudio.com/
 #
 
+#source('myfunctions.R') to source functions into app
+
 library(shiny)
 library(readxl)
 library(tools)
